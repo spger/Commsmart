@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+
+
+<SDR>	
+	<Algoridmia>
+		<Config>
+			<IPAdress>127.0.01</IPAdress> <!-- 138.100.9.219 169.254.32.97  192.168.1.53 10.228.120.185-->
+			<PuertoR>5000</PuertoR>
+			<PuertoS>4000</PuertoS>
+		</Config>
+	</Algoridmia>
+
+	<HACKRFinfo>
+		<IP1>127</IP1>
+		<IP2>0</IP2>
+		<IP3>0</IP3>
+		<IP4>1</IP4>
+		<Control>3333</Control>  <!--3333-->
+		<Data>3334</Data>      <!--3334-->
+	</HACKRFinfo>
+
+	<NIinfo>
+		<IP1>138</IP1>
+		<IP2>100</IP2>
+		<IP3>9</IP3>
+		<IP4>10</IP4>
+		<Control>7000</Control>
+		<Data>6000</Data>
+	</NIinfo>
+</SDR>
+
